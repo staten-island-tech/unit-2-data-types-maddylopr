@@ -1,3 +1,7 @@
-x = 3
-y = float(3)
-print(x,y)
+z = input("say 3:")
+if z == "3":
+    print("thats very smart of you!")
+if z == "three":
+    print("ok wise guy")
+else:
+    print("what")
