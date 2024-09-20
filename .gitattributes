@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+    x = int(input("0"))
+print(x*6)
+
+z = input("say 3:")
+if z == "3":
+    print("thats very smart of you!")
+if z == "three":
+    print("ok wise guy")
+else:
+    print("what")
