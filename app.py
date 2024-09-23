@@ -1,8 +1,14 @@
+x = 248
+y = 17
+if x is 2==0 and y is 2==0
+print("both are even")
+elif x is 2==0 or is 2==
+print("one is even")
+elif x is 2== y and 2==
+print("both are odd")
+'''a = 13
+b = 5
 
-z = input("integer?????!!!:")
-if z == "2, 4, 6, 8, 10, 12, 14, 16, 18, 20":
-    print("thats very smart of you!")
-if z == "three":
-    print("ok wise guy")
-else:
-    print("what")
+c = a % b
+print(a, "mod", b, "=",
+      c, sep="")'''
