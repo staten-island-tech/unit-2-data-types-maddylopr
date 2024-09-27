@@ -26,4 +26,13 @@ if pluh == "great":
 # Then develop a function that accepts the user input and will tell
 # you how many words are in that string. First write out your plan in
 # Pseudo-code using comments. Then craft the function. 
-ok = input("sentence:")
+'''a = "skibidi toilet"
+x = a.split (" ")
+print(x)
+print(len(x))'''
+# Create a function that accepts an input and determines all
+# factors of the number. 
+a = 45
+for i in range (2,a+1):
+    if a % i ==0:
+        print(i)
