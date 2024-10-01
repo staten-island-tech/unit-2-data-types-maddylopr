@@ -36,10 +36,18 @@ print(len(x))'''
 for i in range (2,a+1):
     if a % i ==0:
         print(i)'''
-# Create a function that accepts 2 arguments. Find the greatest common
-# factor between those numbers. 
-a=42
-b=54
-for i in range(2,a+1):
-    if a%i ==0 and b%i ==0:
-        print("learn to add")
+# One day, there was a (noun) who was very (adjective). (noun) loved (food), it
+# loved (food) very much, but so did (name). (name) was very (adjective2), and therefore didn't
+# get along well with (noun). (noun) and (name) fought over (food), and they would (verb)
+# around (name)s backyard. (noun) would usually win, and celebrate with (noun2), but one
+# day (noun) realized it was making (name) very (adjective3). (noun) apoligized by giving
+# (name) his pet (noun3).
+print("start")
+name = input("name:")
+adjective = input("adjective:")
+food = input("food:")
+noun = input("noun:")
+adjective2 = input("adjective2:")
+verb = input("verb:")
+noun2 = input("noun2:")
+print("One day , there was a", noun, "who was very", adjective,".", noun, "loved", food, "it loved", food, "very much .. but so did", name, )
